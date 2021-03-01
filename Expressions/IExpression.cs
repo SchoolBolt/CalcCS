@@ -9,6 +9,6 @@
         /// Метод вычисляет численное значение выражения
         /// </summary>
         /// <returns>значение выражения как вещественное число</returns>
-        public abstract double Calculate();
+        double Calculate();
     }
 }
